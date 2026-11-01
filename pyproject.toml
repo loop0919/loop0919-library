@@ -84,6 +84,8 @@ exclude = [
 pythonVersion = "3.11"
 pythonPlatform = "Linux"
 typeCheckingMode = "basic"
+venvPath = "."
+venv = ".venv"
 
 # 競プロ用にノイズを抑える
 reportMissingTypeStubs = "none"
